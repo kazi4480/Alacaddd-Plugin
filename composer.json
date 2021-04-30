@@ -1,0 +1,19 @@
+{
+    "name": "kazih/alecaddd-plugin",
+    "description": "awasom plugin",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Kazi4480",
+            "email": "kazi.habib314@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Inc\\": "./inc"
+        }
+    }
+}
